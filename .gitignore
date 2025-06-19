@@ -132,6 +132,7 @@ celerybeat.pid
 .venv
 env/
 venv/
+myenv/
 ENV/
 env.bak/
 venv.bak/
@@ -192,3 +193,6 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# Streamlit
+.streamlit/secrets.toml
