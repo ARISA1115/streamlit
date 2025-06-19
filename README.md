@@ -41,6 +41,7 @@ deactivate
 
 ## ディレクトリ構成
 streamlit-app/
+.
 ├── .gitignore
 ├── app.py               
 ├── README.md
