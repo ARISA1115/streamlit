@@ -40,9 +40,10 @@ deactivate
 ```
 
 ## ディレクトリ構成
+```bash
 streamlit-app/
-.
 ├── .gitignore
 ├── app.py               
 ├── README.md
 └── requirements.txt
+```
